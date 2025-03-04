@@ -1,6 +1,9 @@
 # Sales-Report-Dashboard
 This dashboard provides a comprehensive analysis of sales performance for the year 2022. The data visualization includes key metrics such as revenue, total orders, profit, and average cost, with breakdowns by product and payment methods.
 
+![Screenshot (107)](https://github.com/user-attachments/assets/5801c14a-fe9f-490d-98f3-24e422420877)
+
+
 # Sales Report 2022 - Dashboard Overview
 
 ## 📊 Overview
